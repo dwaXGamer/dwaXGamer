@@ -1,11 +1,12 @@
 <!-- ══════════════════ BANNER ══════════════════ -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=70&pause=99999&color=38B6FF&center=true&vCenter=true&width=500&height=110&lines=dwaX" alt="dwaX" />
-</h1>
+<p align="center">
+  <img src="./logo.png" alt="dwaX" width="360" />
+</p>
 
 <p align="center">
   <strong>Dwayne Mhlanga</strong> · Cybersecurity &amp; Cloud Security
 </p>
+
 
 
 <!-- ══════════════════ TYPING EFFECT ══════════════════ -->
@@ -51,8 +52,8 @@ I'm **Dwayne Mhlanga** — known online as **dwaX**. I came up through **IT supp
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,js,php,git,docker,mysql,firebase,figma" alt="tech stack" />
 </p>
 
-**Security:** Kali Linux · Nmap · Wireshark · Burp Suite · Metasploit
-**Learning:** Cloud Security (AWS/Azure) · SIEM & Logging · Incident Response
+**Security:** Linux Environments · Nmap · Wireshark · Burp Suite · Metasploit
+**Learning:** Cloud Security (AWS/Azure) · SIEM & Logging · Incident Response · AI Automation
 
 ---
 
