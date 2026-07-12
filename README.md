@@ -1,7 +1,12 @@
 <!-- ══════════════════ BANNER ══════════════════ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=70&pause=99999&color=38B6FF&center=true&vCenter=true&width=500&height=110&lines=dwaX" alt="dwaX" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:041828,50:1a9fe0,100:38b6ff&height=200&section=header&text=dwaX&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Dwayne%20Mhlanga%20·%20Cybersecurity%20%26%20Cloud%20Security&descAlignY=58&descSize=18" width="100%" alt="dwaX banner"/>
+  <strong>Dwayne Mhlanga</strong> · Cybersecurity &amp; Cloud Security
 </p>
+
 
 <!-- ══════════════════ TYPING EFFECT ══════════════════ -->
 <p align="center">
@@ -23,12 +28,12 @@
 
 I'm **Dwayne Mhlanga** — known online as **dwaX**. I came up through **IT support**, and now I'm moving into **cybersecurity**, focused on **blue teaming and cloud security**. I spent my support years fixing what was broken; now I'm learning to spot what's weak *before* someone else does.
 
-- Cybersecurity & Forensic Auditing student — **University of Zimbabwe**
-- Aspiring **Blue Teamer**, learning **cloud security & AI automation**
-- Coming from **IT support** — comfortable in messy, real-world systems
-- Currently building **CipherNest**, my own SIEM, to learn detection from the inside out
-- Based in **Harare, Zimbabwe** — open to remote work & internships
-- Off the clock: chess, design, and anything security-related
+- 🎓 Cybersecurity & Forensic Auditing student — **University of Zimbabwe**
+- 🛡️ Aspiring **Blue Teamer**, learning **cloud security & AI automation**
+- 🧰 Coming from **IT support** — comfortable in messy, real-world systems
+- 🏗️ Currently building **CipherNest**, my own SIEM, to learn detection from the inside out
+- 🌍 Based in **Harare, Zimbabwe** — open to remote work & internships
+- ♟️ Off the clock: chess, design, and anything security-related
 
 ---
 
@@ -88,5 +93,6 @@ I'm **Dwayne Mhlanga** — known online as **dwaX**. I came up through **IT supp
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38b6ff,50:1a9fe0,100:041828&height=100&section=footer" width="100%" alt="footer"/>
+  <em>Built with purpose · Harare, Zimbabwe · 2026</em>
 </p>
+
